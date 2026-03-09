@@ -82,7 +82,7 @@ body{
 
     background-image:
             linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),
-            url("img/rostoviradoesquerda.jpeg");
+            url("img/rostoviradoesquerda.jpg");
 
     background-size:cover;
     background-position:center;
@@ -409,5 +409,6 @@ footer{
     .nav-links.active{
         display:flex;
     }
+
 
 }
